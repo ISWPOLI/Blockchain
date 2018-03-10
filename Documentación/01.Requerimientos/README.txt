@@ -1,14 +1,16 @@
 Se encuentra dividido en dos partes:
-1. Parte:
-•	Introducción, Juan 
-•	Objetivos SMART, Juan 
-•	Marco teórico.  Juan
-•	Modelado del negocio (Canvas) Juan
-•	Problema de investigación. Juan
-•	Justificación. Juan 
+1. Parte: Completado
+â€¢	IntroducciÃ³n, Juan 
+â€¢	Objetivos SMART, Juan 
+â€¢	Marco teÃ³rico.  Juan
+â€¢	Modelado del negocio (Canvas) Juan
+â€¢	Problema de investigaciÃ³n. Juan
+â€¢	JustificaciÃ³n. Juan 
+Completado ---
+
 2. Parte
-•	Documento de levantamiento de requerimientos (deseable IEE 830) Anderson
-•	Modelado de casos de Uso + fichas. Anderson
-•	Diagramas de clases, Andres, Anderson
-•	Diagramas de secuencia Andres, Anderson
-•	Diagramas de navegación Mookups Anderson
+â€¢	Documento de levantamiento de requerimientos (deseable IEE 830) Anderson
+â€¢	Modelado de casos de Uso + fichas. Anderson
+â€¢	Diagramas de clases, Andres, Anderson
+â€¢	Diagramas de secuencia Andres, Anderson
+â€¢	Diagramas de navegaciÃ³n Mookups Anderson
